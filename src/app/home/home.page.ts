@@ -23,10 +23,18 @@ export class HomePage {
  
  
   textToSpeech(text) {
+    /*
     this.tts.speak(text)
       .then(() => console.log('Success'))
       .catch((reason: any) => console.log(reason));
+      */
+     this.tts.speak({
+      text: text,
+      locale: 'es-ES',
+      rate: 0.75
+  })
+  .then(() => console.log('Success'))
+  .catch((reason: any) => console.log(reason));
   }
- 
- 
+
 }
