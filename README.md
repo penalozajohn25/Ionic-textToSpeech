@@ -1,4 +1,4 @@
-# textToSpeech application
+# TextToSpeech Application
 
 ## Description 
 
