@@ -29,7 +29,7 @@ cordova:
 * ionic cordova platform add android
 * ionic cordova build android. 
 
-## Running the tests 
+## Running tests on the device
 
 ```
  search apk in /platforms/android/app/build/outputs/apk/debug/app-debug.apk
