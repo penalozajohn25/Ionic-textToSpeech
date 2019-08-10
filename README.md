@@ -1,6 +1,6 @@
 # textToSpeech application
 
-## description 
+## Description 
 
 Ionic application speak the text. When using the Text To Speech plugin.
 
